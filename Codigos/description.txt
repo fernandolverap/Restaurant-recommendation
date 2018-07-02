@@ -1,0 +1,1 @@
+python codes: there is a script used to treat the data and calculate similarity between users and restaurants
